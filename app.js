@@ -40,5 +40,3 @@ app.get('*', (req, res) => {
 app.listen(port, () => {
     console.log(`Aplicación de ejemplo escuchada en http://localhost:${port}`);
 });
-
-//Prueba
